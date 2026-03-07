@@ -92,7 +92,7 @@
     "correct": "もし雨が降ったら、行きません。",
     "explanation": "Conditional needs たら/なら etc. (Pattern set 1)",
     "id": 12,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
