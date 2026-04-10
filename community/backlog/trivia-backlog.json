@@ -276,8 +276,10 @@
       "Ikebana"
     ],
     "correctIndex": 0,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "Shahzaib-Awann",
+    "completedPR": 12626
   },
   {
     "id": 21,
